@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2f22fe7-8fcc-4c9e-8740-0e3dd8346c3c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games.txt" beforeDir="false" afterPath="$PROJECT_DIR$/games.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A3/ControlDeskView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/A3/ControlDeskView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A3/Lane.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/A3/Lane.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A3/OldGameView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/A3/OldGameView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AddPartyView.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/AddPartyView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bowler.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bowler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BowlerFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/BowlerFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControlDesk.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/ControlDesk.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControlDeskView$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/ControlDeskView$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControlDeskView.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/ControlDeskView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControlDeskView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ControlDeskView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EndGameReport.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/EndGameReport.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lane.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lane.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LaneEvent.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/LaneEvent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LaneObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/LaneObserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LaneStatusView.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/LaneStatusView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LaneView$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/LaneView$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LaneView.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/LaneView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OldGameView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OldGameView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PinSetterView.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/PinSetterView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ScoreReport.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/ScoreReport.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SuperLane.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/SuperLane.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/drive.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/drive.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZcLEMWsIVHWn7Y6J7rbxnua9aJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="drive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="drive" />
+      <module name="A3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.drive" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2f22fe7-8fcc-4c9e-8740-0e3dd8346c3c" name="Default Changelist" comment="" />
+      <created>1585133322744</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585133322744</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="588" y="215" width="800" height="684" key="#Code_Folding" timestamp="1586105122028">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="215" width="800" height="684" key="#Code_Folding/67.27.1853.1053@67.27.1853.1053" timestamp="1586105122028" />
+    <state x="588" y="215" width="800" height="684" key="#Inspections" timestamp="1586105885408">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="215" width="800" height="684" key="#Inspections/67.27.1853.1053@67.27.1853.1053" timestamp="1586105885408" />
+    <state x="696" y="354" width="585" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586419013109">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="696" y="354" width="585" height="396" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1586419013109" />
+    <state x="801" y="266" width="374" height="582" key="#com.intellij.ide.util.MemberChooser" timestamp="1586289111421">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="801" y="266" width="374" height="582" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1586289111421" />
+    <state x="637" y="49" width="702" height="1007" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586367847818">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="637" y="49" width="702" height="1007" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1586367847818" />
+    <state x="710" y="436" width="488" height="246" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1585134534206">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="710" y="436" width="488" height="246" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/67.27.1853.1053@67.27.1853.1053" timestamp="1585134534206" />
+    <state width="1807" height="277" key="GridCell.Tab.0.bottom" timestamp="1586437853137">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="277" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1586437853137" />
+    <state width="1807" height="277" key="GridCell.Tab.0.center" timestamp="1586437853137">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="277" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1586437853137" />
+    <state width="1807" height="277" key="GridCell.Tab.0.left" timestamp="1586437853136">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="277" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1586437853136" />
+    <state width="1807" height="277" key="GridCell.Tab.0.right" timestamp="1586437853137">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="277" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1586437853137" />
+    <state x="482" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1585758790271">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="188" width="1022" height="737" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1585758790271" />
+    <state x="773" y="422" width="430" height="294" key="com.codemr.intellij.extractors.ExtractModelDialog" timestamp="1586407821260">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="773" y="422" width="430" height="294" key="com.codemr.intellij.extractors.ExtractModelDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1586407821260" />
+    <state x="181" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1586236509905">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="181" y="381" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1586236509905" />
+    <state x="301" y="468" width="448" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586347607554">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="301" y="468" width="448" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1586347607554" />
+    <state x="1558" y="566" width="596" height="706" key="dock-window-2" timestamp="1586279932022">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="1558" y="566" width="596" height="706" key="dock-window-2/67.27.1853.1053@67.27.1853.1053" timestamp="1586279932022" />
+    <state x="726" y="313" width="554" height="500" key="extract.method.dialog" timestamp="1586419894541">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="726" y="313" width="554" height="500" key="extract.method.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1586419894541" />
+    <state x="302" y="154" width="1372" height="805" key="new project wizard" timestamp="1586236974143">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="302" y="154" width="1372" height="805" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1586236974143" />
+    <state x="738" y="172" width="500" height="769" key="refactoring.ChangeSignatureDialog" timestamp="1586291898713">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="738" y="172" width="500" height="769" key="refactoring.ChangeSignatureDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1586291898713" />
+    <state x="657" y="253" key="run.anything.popup" timestamp="1586386357275">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="657" y="253" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1586386357275" />
+    <state x="656" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1586291309491">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="259" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1586291309491" />
+  </component>
+</project>
